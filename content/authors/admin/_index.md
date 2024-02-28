@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Computer Science
+    - course: BSc in Computer Science
       institution: York University
       year: 2022
 
