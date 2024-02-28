@@ -67,30 +67,40 @@ sections:
           date_end: ''
           date_start: '2023-08-12'
           description: ''
-          icon: edx
+          icon: dharmachakra
           organization: Linux Foundation
           organization_url: https://www.linuxfoundation.org/
           title: Certified Kubernetes Application Developer
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2024-03-15'
+          description:
+          icon: aws
+          organization: Amazon Web Services
+          organization_url: https://www.aws.training/certification
+          title: AWS Certified Developer Associate
+          url:
+        - certificate_url: https://www.aws.training/certification
+          date_end: ''
+          date_start: '2024-03-30'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: aws
+          organization: Amazon Web Services
+          organization_url:
+          title: AWS Certified Cloud Architect Associate
           url: ''
-    design:
+        - certificate_url: https://www.aws.training/certification
+          date_end: ''
+          date_start: '2024-04-12'
+          description: ''
+          icon: terraform
+          organization: HashiCorp
+          organization_url:
+          title: HashiCorp Certified Terraform Associate
+          url: ''
+
+        design:
       columns: '2'
   - block: collection
     id: posts
