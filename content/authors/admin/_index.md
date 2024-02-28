@@ -103,5 +103,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A junior DevOps engineer with experience in AWS, Kubernetes, Docker, and Terraform. Proficient in managing and
+automating infrastructure and deployments. Expertise in leveraging AWS services for cloud computing, storage, and
+networking needs. Hands-on experience with Kubernetes for container orchestration aswell as CKAD Certified. Docker
+for containerization, and Terraform for infrastructure provisioning and management . Up-to date and continuously learning
+and adapting to new technologies and practices in the rapidly evolving DevOps landscape.
 {style="text-align: justify;"}
