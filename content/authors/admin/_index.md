@@ -2,9 +2,6 @@
 # Display name
 title: Warsame Osman
 
-# Name pronunciation (optional)
-name_pronunciation: Warsame Osman
-
 # Full name (for SEO)
 first_name: Warsame
 last_name: Osman
@@ -18,11 +15,6 @@ superuser: true
 
 # Role/position/tagline
 role: DevOps Engineer
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: York University
-    url: https://www.warsameosman.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: DevOps engineer with expertise in Kubernetes and AWS
