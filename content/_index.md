@@ -100,7 +100,7 @@ sections:
           title: HashiCorp Certified Terraform Associate
           url: ''
 
-        design:
+    design:
       columns: '2'
   - block: collection
     id: posts
