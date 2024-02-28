@@ -125,7 +125,7 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo
-   design:
+    design:
       columns: '2'
   - block: collection
     id: posts
