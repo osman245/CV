@@ -163,7 +163,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: osm.warsame@gmail.com
       appointment_url: 'https://calendly.com'
-        contact_links:
+      contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
