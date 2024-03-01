@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: How to get CKAD certified!
+date: '2024-08-20'
+summary: Get CKAD Certified!
 ---
 
 
