@@ -158,10 +158,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel Free to contact me
+        Feel free to contact me
       # Contact (add or remove contact options as necessary)
       email: osm.warsame@gmail.com
       appointment_url: 'https://calendly.com/osm-warsame'
+    autolink: true
     form:
         provider: netlify
         formspree:
