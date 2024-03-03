@@ -72,15 +72,15 @@ sections:
           organization_url: https://www.linuxfoundation.org/
           title: Certified Kubernetes Application Developer
           url: ''
-        - certificate_url: ''
+        - certificate_url: https://www.aws.training/certification
           date_end: ''
           date_start: '2024-03-15'
           description:
           icon: aws
           organization: Amazon Web Services
-          organization_url: https://www.aws.training/certification
+          organization_url:
           title: AWS Certified Developer Associate
-          url:
+          url: ''
         - certificate_url: https://www.aws.training/certification
           date_end: ''
           date_start: '2024-03-30'
@@ -103,7 +103,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '4'
   - block: portfolio
     id: projects
     content:
