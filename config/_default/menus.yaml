@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Blog
-    url: 'https://github.com/osman245/blogz'
+    url: 'https://osman245.github.io/blogz/'
     weight: 40
   - name: Contact
     url: '#contact'
