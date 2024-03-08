@@ -40,7 +40,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "Warsame Osman"
-  homepage = "https://main--idyllic-biscotti-77b9c7.netlify.app/"
+  homepage = "https://www.warsameosman.com/"
 
 # If porting an existing theme
 [original]
