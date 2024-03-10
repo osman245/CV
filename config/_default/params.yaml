@@ -42,7 +42,7 @@ header:
 
 # Site footer
 footer:
-  block: minimal
+  block: abc
   copyright:
     notice: 'Warsame Osman @ 2024'
     license:
