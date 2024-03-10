@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [ckad](http://bucket-image23123.s3-website-us-east-1.amazonaws.com/ckad.png)'
+  filename: ckad.png
   focal_point: ''
   placement: 2
   preview_only: false
