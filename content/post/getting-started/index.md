@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/an-island-in-the-middle-of-the-ocean-DMGDdksVoWI)'
+  caption: 'Image credit: [**Unsplash**](http://bucket-image23123.s3-website-us-east-1.amazonaws.com/ckad.png)'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -31,17 +31,7 @@ image:
 authors:
   - admin
 
-tags:
-  - Academic
-
-categories:
-  - Demo
 ---
-
-```python
-import libr
-print('hello')
-```
 
 I recently passed my CKAD exam!!
 

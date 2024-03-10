@@ -4,7 +4,7 @@ date: 2022-07-12
 math: true
 image:
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: 'Image credit: [**storage**](https://bucket-image23123.s3.amazonaws.com/storage-image.webp)'
 ---
 At the lowest deployable and manageable unit of Kubernetes, we have pods. In a pod there are containers. If a container is deleted or lost, all of it’s data is gone with it. Thus we use volumes in a pod to maintain its data state for other living containers or future containers in the pod to use.
 
@@ -16,7 +16,7 @@ We do persistent volume claims to request a persistent volume with certain prope
 
 A practical example of using a PVC with a Kubernetes Pod
 
-) Create a directory for the storage to be held in
+1.) Create a directory for the storage to be held in
 
 2. ) Create a file in the storage
 
