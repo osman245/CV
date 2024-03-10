@@ -4,8 +4,8 @@ date: 2022-07-12
 math: true
 image:
   placement: 2
-  caption: 'Image credit: [**storage**](https://bucket-image23123.s3.amazonaws.com/storage-image.webp)'
----
+  filename: featured.jpg
+---  
 At the lowest deployable and manageable unit of Kubernetes, we have pods. In a pod there are containers. If a container is deleted or lost, all of it’s data is gone with it. Thus we use volumes in a pod to maintain its data state for other living containers or future containers in the pod to use.
 
 In Kubernetes, we can mount data from the pod volume to any storage resource(cloud, local and E.T.C).In Kubernetes we can manage storage in other ways such as through the persistent volume subsystem. Through this we utilize two API resources, persistent volume and persistent volume claims. A persistent volume is a volume that is created through an administrator or dynamically created through a persistent volume claim. A persistent volume claim is a request for storage by a user.
