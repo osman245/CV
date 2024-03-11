@@ -1,9 +1,9 @@
 ---
-title: Mobile Wallet Application
+title: Mobile Wallet Application(Building)
 summary: Mobile wallet Application in ReactJs, leveraging aws serverless framework and Auth0 services to create an immersive application.
 tags:
   - AWS
-date: '2016-04-27T00:00:00Z'
+date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

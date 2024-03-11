@@ -92,8 +92,6 @@ sections:
           tag: '*'
         - name: Kubernetes
           tag: kubernetes
-        - name: Other
-          tag: Demo
     design:
       columns: '2'
   - block: collection
