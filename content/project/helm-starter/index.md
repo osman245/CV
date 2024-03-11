@@ -1,6 +1,6 @@
 ---
-title: Helm Starter
-summary: Helm starter
+title: Helm Starter(building)
+summary: Helm starter to prompt user with questions to tailor the helm project..
 tags:
   - kubernetes
 date: '2023-08-27T00:00:00Z'

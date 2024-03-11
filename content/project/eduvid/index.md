@@ -1,5 +1,5 @@
 ---
-title: Eduvid
+title: Eduvid(building)
 summary: Application of course listings, Add your own course.
 tags:
   - AWS
@@ -9,7 +9,7 @@ date: '2023-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: eduvid
   focal_point: Smart
 
 links:
