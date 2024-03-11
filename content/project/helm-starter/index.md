@@ -2,7 +2,7 @@
 title: Helm Starter
 summary: Helm starter
 tags:
-  - AWS
+  - kubernetes
 date: '2023-08-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
