@@ -11,7 +11,7 @@ links:
     icon_pack: fab
     name: Watch
     url: 'https://www.youtube.com/watch?v=Pypi_kHKEzY&t=9s&ab_channel=WarsameOsman'
-    image:
+image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
