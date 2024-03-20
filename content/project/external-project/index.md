@@ -1,5 +1,5 @@
 ---
-title: EventZi(building)
+title: EventZi
 summary: Event Listing Application where you can create your own event listing and buy tickets to Events
 tags:
   - AWS
