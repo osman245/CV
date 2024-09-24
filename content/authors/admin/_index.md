@@ -14,10 +14,10 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: DevOps Engineer
+role: Software Developer
 
 # Short bio (displayed in user profile at end of posts)
-bio: DevOps engineer with expertise in Kubernetes and AWS
+bio: Software Developer with expertise in Kubernetes and AWS
 
 # Interests to show in About widget
 interests:
@@ -27,9 +27,9 @@ interests:
 
 # Education to show in About widget
 education:
+      institution: York University
   courses:
     - course: BSc in Computer Science
-      institution: York University
       year: 2022
 
 # Skills
@@ -100,7 +100,7 @@ social:
 highlight_name: true
 ---
 
-A DevOps engineer with experience in AWS, Kubernetes, Docker, and Terraform. Proficient in managing and
+A Software Developer with experience in Python, AWS, Kubernetes, Docker, and Terraform. Proficient in managing and
 automating infrastructure and deployments. Expertise in leveraging AWS services for cloud computing, storage, and
 networking needs. Hands-on experience with Kubernetes for container orchestration aswell as CKAD Certified. Docker
 for containerization, and Terraform for infrastructure provisioning and management . Up-to date and continuously learning
