@@ -19,19 +19,6 @@ role: Software Developer
 # Short bio (displayed in user profile at end of posts)
 bio: Software Developer with expertise in Kubernetes and AWS
 
-# Interests to show in About widget
-interests:
-  - DevOps Engineering
-  - Full Stack
-  - Backend Engineering
-
-# Education to show in About widget
-education:
-      institution: York University
-  courses:
-    - course: BSc in Computer Science
-      year: 2022
-
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
