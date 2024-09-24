@@ -34,10 +34,10 @@ skills:
         percent: 80
         icon: aws
         icon_pack: fab
-      - name: ReactJS
+      - name: Python
         description: ''
         percent: 80
-        icon: react
+        icon: python
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
