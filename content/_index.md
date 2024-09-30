@@ -43,7 +43,7 @@ sections:
           url: ''
         - certificate_url: https://www.aws.training/certification
           date_end: ''
-          date_start: '2024-03-15'
+          date_start: '2024-12-15'
           description:
           icon: aws
           organization: Amazon Web Services
@@ -52,7 +52,7 @@ sections:
           url: ''
         - certificate_url: https://www.aws.training/certification
           date_end: ''
-          date_start: '2024-03-30'
+          date_start: '2024-12-30'
           description: ''
           icon: aws
           organization: Amazon Web Services
@@ -61,7 +61,7 @@ sections:
           url: ''
         - certificate_url: https://www.aws.training/certification
           date_end: ''
-          date_start: '2024-04-12'
+          date_start: '2024-12-12'
           description: ''
           icon: terraform
           organization: HashiCorp
